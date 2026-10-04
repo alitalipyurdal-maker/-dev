@@ -81,7 +81,7 @@ mesela
 ```
 yazarsak
 
-#### > bu bir alıntıdır
+> bu bir alıntıdır
  
 çıkar.
 
