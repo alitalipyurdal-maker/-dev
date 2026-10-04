@@ -102,11 +102,10 @@ buna bir örnektir, gördüğünüz gibi kodlar çalışmak yerine gözükyorlar
 internet linki eklemek için "()" kullanırız
 mesela
 ```
-
+hadi (https//github.com) a girelim
 ```
 yazarsak
-
-
+hadi (https//github.com)'a girelim yazmış oluruz ve
 sizi github'a yönlendirecek bir link oluşur
 
 # **README NEDİR NE İŞE YARAR**
