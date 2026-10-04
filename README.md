@@ -97,4 +97,20 @@ mesela
 
 ***bloğudur***
 ```
-buna bir örnektir, gördüğünüz gibi kodlar çalışmak yerine gözükyorlar
+buna bir örnektir, gördüğünüz gibi kodlar çalışmak yerine gözükyorlar.
+### Internet link'i ekleme
+internet linki eklemek için "()" kullanırız
+mesela
+```
+
+```
+yazarsak
+
+
+sizi github'a yönlendirecek bir link oluşur
+
+# **README NEDİR NE İŞE YARAR**
+
+## ***README nedir?***
+GİTHUB'da bir projeye tıkladığınızda
+Projeyi tanıtan, nasıl kurulcağını açıklayan şey, *README.md* dosyasıdır
