@@ -9,17 +9,18 @@ markdown düz metinleri kullanarak karmaşık kodlar kullanmadan kolayca metinle
 
 ###  "#" **başlık oluşturmaya yarar**
  
- # koyulan metinler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir
+` # koyulan metinler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir
 mesela
 
-' # başlık
+` # başlık
 
-' ## başlık
+` ## başlık
 
-' ### başlık
+` ### başlık
 
 # başlık
 
 ## başlık
 
 ### başlık
+
