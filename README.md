@@ -6,4 +6,4 @@ markdown düz metinleri kullanarak karmaşık kodlar kullanmadan kolayca metinle
 
 # Örnekler ile anlayalım
 
-# ' # **başlık oluşturmaya yarar**
+#  # **başlık oluşturmaya yarar**
