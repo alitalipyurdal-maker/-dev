@@ -86,7 +86,7 @@ yazarsak
 çıkar.
 
 ### kod bloğu 
-eğer bir kodu göstermek istiyorsak bunu bu kodu kullanrak yazarız. yazcağınız şeyin bir satır üstüne ve altına "```"(üç ters kesme işareti) yazarız.
+eğer bir kodu göstermek istiyorsak bunu bu kodu kullanarak yazarız. yazcağımız şeylerin bir satır üstüne ve altına "```" (üç ters kesme işareti) yazarız.
 mesela
 ```
 ```
