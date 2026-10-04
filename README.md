@@ -34,7 +34,7 @@ yazarsak
 çıkar.
 
 ###  **kalın** ve *italik* 
-**kalın** ve *italik* yazı ile kelimeyi yada kelimeleri vurgulayabiliriz. **kalın** yazıyı "**...**"(kelime yanlarına iki yıldız) kullanarak, *italik* yazıyı "*...*"(kelime yanlarına 1 yıldız koyarak)
+**kalın** ve *italik* yazı ile kelimeyi yada kelimeleri vurgulayabiliriz. **kalın** yazıyı kelime yanlarına iki yıldız kullanarak, *italik* yazıyı kelime yanlarına 1 yıldız koyarak olulturabiliriz.
 mesela
 ```
 **kalın**
