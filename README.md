@@ -47,12 +47,14 @@ mesela
 ### sıralı liste
 sıralı listeleri 1., 2., 3. vb(sayı ve nokta yaparak oluşturabiliriz
 ```
-1. kıyma
+- kıyma
 
-2. yoğurt
+- yoğurt
 
-3. sebze
+- sebze
 ```
-1. kıyma
-2. yoğurt
-3. sebze
+- kıyma
+
+- yoğurt
+
+- sebze
