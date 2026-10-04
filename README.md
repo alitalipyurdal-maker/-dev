@@ -11,13 +11,13 @@ markdown düz metinleri kullanarak karmaşık kodlar kullanmadan kolayca metinle
  
  "#" koyulan metinler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir
 mesela
+```
+ # başlık
 
-' # başlık
+ ## başlık
 
-' ## başlık
-
-' ### başlık
-
+ ### başlık
+```
 # başlık
 
 ## başlık
