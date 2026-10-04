@@ -118,11 +118,11 @@ Ayrıca projenin kök dizisinr eklenen ve genellikle markdown.md ile yazılan bi
 
 ## ***README NE İŞE YARAR***
 
-### - Projeyi tanıtır, hangi amaçla hangi ders için yapıldığını açıklar
+- Projeyi tanıtır, hangi amaçla hangi ders için yapıldığını açıklar
 
-### - kurulum rehberidir, projeyi indiren başka birinin kodu nasıl çalıştıracağobı açıklar
+- kurulum rehberidir, projeyi indiren başka birinin kodu nasıl çalıştıracağobı açıklar
 
-### - Teknolojileri listeler, kodun yazılırken hangi programlama dilinin yada hangi kütüphanler ile yazıldığını belirler
+- Teknolojileri listeler, kodun yazılırken hangi programlama dilinin yada hangi kütüphanler ile yazıldığını belirler
 
-### - iletişim kurar,Projeyi kimlerin yazdığını belirterek projenin sahibini gösterir
+- iletişim kurar,Projeyi kimlerin yazdığını belirterek projenin sahibini gösterir
  
