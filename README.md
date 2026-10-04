@@ -99,13 +99,13 @@ mesela
 ```
 buna bir örnektir, gördüğünüz gibi kodlar çalışmak yerine gözükyorlar.
 ### Internet link'i ekleme
-internet linki eklemek için "()" kullanırız
+internet linki eklemek için "[]" ve "()" (köşeli parantez ve parantez) kullanırız
 mesela
 ```
-hadi (https//github.com) a girelim
+hadi [link](https//github.com) 'a girelim
 ```
 yazarsak
-hadi (https//github.com)'a girelim yazmış oluruz ve
+hadi [link](https//github.com) 'a girelim yazmış oluruz ve
 sizi github'a yönlendirecek bir link oluşur
 
 # **README NEDİR NE İŞE YARAR**
