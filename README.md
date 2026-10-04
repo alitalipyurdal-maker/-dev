@@ -125,4 +125,22 @@ Ayrıca projenin kök dizisinr eklenen ve genellikle markdown.md ile yazılan bi
 - Teknolojileri listeler, kodun yazılırken hangi programlama dilinin yada hangi kütüphanler ile yazıldığını belirler
 
 - iletişim kurar,Projeyi kimlerin yazdığını belirterek projenin sahibini gösterir
+
+# *PROJE Versiyonları Nedir Nasıl Belirlenir?*
+
+## *PROJE Versiyonları Nedir?* 
+
+Proje versiyonları, projenize yaptığınız her düzeltmede, değişiklikte ve güncellemede değişen 1.0.0 yada 3.4.6 gibi sayılardır, numaralardır.
+Bu numaralar projeyi kullanan kişiye projenin kaç defa değiştiğini gösterir.
+
+
+## *PROJE versiyonlaro nasıl belirlenir?*
+
+#### proje versiyonları bir kaç şekilde belirlenebilir, değişebilir
+
+- ### PATCH(yama/düzeltme)
+
+
+
+
  
