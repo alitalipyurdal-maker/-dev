@@ -53,6 +53,6 @@ sıralı listeleri 1., 2., 3. vb(sayı ve nokta yaparak oluşturabiliriz
 
 3. sebze
 ```
-#### 1. kıyma
-#### 2. yoğurt
-#### 3. sebze
+1. kıyma
+2. yoğurt
+3. sebze
