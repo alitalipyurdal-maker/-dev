@@ -43,3 +43,16 @@ mesela
 #### *italik*
 
 #### ***kalın ve italik***
+
+### sıralı liste
+sıralı listeleri "-" işareti yaparak kullanabiliriz
+```
+- kıyma
+
+- yoğurt
+
+- sebze
+```
+#### - kıyma
+#### - yoğurt
+#### - sebze
