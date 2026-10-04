@@ -89,7 +89,6 @@ yazarsak
 eğer bir kodu göstermek istiyorsak bunu bu kodu kullanarak yazarız. yazcağımız şeylerin bir satır üstüne ve altına "```" (üç ters kesme işareti) yazarız.
 mesela
 ```
-```
 ####bu 
 
 **bir** 
@@ -98,12 +97,4 @@ mesela
 
 ***bloğudur***
 ```
-```
-yazarsak
-```
-####bu
-**bir**
-*kod*
-***bloğudur***
-``` 
-çıkar. 
+buna bir örnektir, gördüğünüz gibi kodlar çalışmak yerine gözükyorlar
