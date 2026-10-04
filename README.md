@@ -38,4 +38,8 @@ mesela
 
 *** kalın ve italik***
 ```
-***kalın ve itali(***
+####**kalın**
+
+####*italik*
+
+####***kalın ve italik***
