@@ -134,7 +134,7 @@ Proje versiyonları, projenize yaptığınız her düzeltmede, değişiklikte ve
 Bu numaralar projeyi kullanan kişiye projenin kaç defa değiştiğini gösterir.
 
 
-## *PROJE versiyonlaro nasıl belirlenir?*
+## *PROJE versiyonları nasıl belirlenir?*
 
 #### proje versiyonları bir kaç şekilde belirlenebilir, değişebilir
 
