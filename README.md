@@ -138,7 +138,7 @@ Bu numaralar projeyi kullanan kişiye projenin kaç defa değiştiğini gösteri
 
 #### proje versiyonları bir kaç şekilde belirlenebilir, değişebilir
 
-- ### PATCH(yama/düzeltme)
+1. ### PATCH(yama/düzeltme)
 
 
 
