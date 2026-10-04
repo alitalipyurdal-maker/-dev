@@ -9,7 +9,7 @@ markdown düz metinleri kullanarak karmaşık kodlar kullanmadan kolayca metinle
 
 ###  "#" **başlık oluşturmaya yarar**
  
- "#" koyulan metinler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir.
+ satır başına "#" koyulan cümleler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir.
 mesela
 
 ```
@@ -34,7 +34,8 @@ yazarsak
 çıkar.
 
 ###  **kalın** ve *italik* 
-**kalın** ve *italik* yazı ile kelimeyi yada kelimeleri vurgulayabiliriz
+**kalın** ve *italik* yazı ile kelimeyi yada kelimeleri vurgulayabiliriz. **kalın** yazıyı "**...**"(kelime yanlarına iki yıldız) kullanarak, *italik* yazıyı "*...*"(kelime yanlarına 1 yıldız koyarak)
+mesela
 ```
 **kalın**
 
@@ -53,7 +54,7 @@ yazarsak
 çıkar.
 
 ### sıralı liste
-sıralı listeleri "-"(kısa çizgi) kullanarak oluşturabiliriz
+sıralı listeleri satır başına "-"(kısa çizgi) kullanarak oluşturabiliriz
 ```
 - kıyma
 
@@ -72,7 +73,8 @@ yazarsak
 çıkar.
 
 ### alıntı oluşturma
-bu bir alıntı kutucuğu oluşturur
+bir alıntı kutucuğu oluşturur, alıntı yaptığımız şeyleri satır başına ">"(küçüktür işareti) kullanarak gösterebiliriz.
+
 mesela
 ```
 > bu bir alıntıdır
