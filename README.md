@@ -138,9 +138,24 @@ Bu numaralar projeyi kullanan kişiye projenin kaç defa değiştiğini gösteri
 
 #### proje versiyonları bir kaç şekilde belirlenebilir, değişebilir
 
-1. ### PATCH(yama/düzeltme)
+### 1. PATCH(yama/düzeltme)
 
+- Projedeki kodların çalışmasını etkilemeden oluşan hataları düzelttiğinizde yada ufak tefek ekelmeler yaptığınızsa en sağdaki rakama bir adet artar
 
+-#### Örneğin 
+bir hatayı düzelttiğinizde 1.0.0'dan 1.0.1'e yükselir
 
+### MINOR(yeni sürüm/özellik)
 
- 
+- Projenize eski çalışan özellikleri *bozmadan* **Tamamen yemi bir işlev yada özellik** eklerseniz ortadaki rakam bir adet artar
+
+- #### Örneğin
+ projenize yeni bir menü eklediniz 1.0.1'den 1.1.0'a yükseldi
+
+### 3. MAJOR (ANA sürüm/büyük değişim)
+
+- Projede köklü bir değişim yaptığınızda, tasarımı komple değiştirdiğinizde veya eski kodların artık çalışmayacağı kadar büyük bir yenilik yaptığınızda en soldaki rakam bir adet artar ve diğer iki rakam sıfırlanır
+
+- ## ÖRNEĞİN
+projenizi tamamen tekrar yazdınız yada alt yapısını değiştirdiniz.
+1.1.0 olan sürüm 2.0.0'a yükseldi
