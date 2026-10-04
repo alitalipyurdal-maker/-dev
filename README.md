@@ -45,14 +45,14 @@ mesela
 #### ***kalın ve italik***
 
 ### sıralı liste
-sıralı listeleri "-" işareti yaparak kullanabiliriz
+sıralı listeleri 1., 2., 3. vb(sayı ve nokta yaparak oluşturabiliriz
 ```
-- kıyma
+1. kıyma
 
-- yoğurt
+2. yoğurt
 
-- sebze
+3. sebze
 ```
-#### - kıyma
-#### - yoğurt
-#### - sebze
+#### 1. kıyma
+#### 2. yoğurt
+#### 3. sebze
