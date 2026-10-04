@@ -27,3 +27,15 @@ mesela
 ### başlık
  
 #### başlık
+
+
+###  **kalın** ve *italik* 
+**kalın** ve *italik* yazı ile kelimeyi yada kelimeleri vurgulayabiliriz
+```
+**kalın**
+
+*italik*
+
+*** kalın ve italik***
+```
+***kalın ve itali(***
