@@ -9,8 +9,9 @@ markdown düz metinleri kullanarak karmaşık kodlar kullanmadan kolayca metinle
 
 ###  "#" **başlık oluşturmaya yarar**
  
- "#" koyulan metinler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir
+ "#" koyulan metinler başlık olur yan yana koyulan #'ler başlığı yan başlığa çevirir.
 mesela
+
 ```
  # başlık
 
@@ -20,6 +21,8 @@ mesela
 
  #### başlık
 ```
+yazarsak
+
 # başlık
 
 ## başlık
@@ -28,6 +31,7 @@ mesela
  
 #### başlık
 
+çıkar.
 
 ###  **kalın** ve *italik* 
 **kalın** ve *italik* yazı ile kelimeyi yada kelimeleri vurgulayabiliriz
@@ -38,14 +42,18 @@ mesela
 
 *** kalın ve italik***
 ```
+yazarsak
+
 #### **kalın**
 
 #### *italik*
 
 #### ***kalın ve italik***
 
+çıkar.
+
 ### sıralı liste
-sıralı listeleri 1., 2., 3. vb(sayı ve nokta yaparak oluşturabiliriz
+sıralı listeleri "-"(kısa çizgi) kullanarak oluşturabiliriz
 ```
 - kıyma
 
@@ -53,8 +61,44 @@ sıralı listeleri 1., 2., 3. vb(sayı ve nokta yaparak oluşturabiliriz
 
 - sebze
 ```
+yazarsak
+
 - kıyma
 
 - yoğurt
 
 - sebze
+
+çıkar.
+
+### alıntı oluşturma
+bu bir alıntı kutucuğu oluşturur
+mesela
+```
+> bu bir alıntıdır
+```
+yazarsak
+
+#### > bu bir alıntıdır
+ 
+çıkar.
+
+### kod bloğu 
+eğer bir kodu göstermek istiyorsak bunu bu kodu kullanrak yazarız. yazcağınız şeyin bir satır üstüne ve altına "```"(üç ters kesme işareti) yazarız.
+mesela
+```
+```
+####bu 
+**bir** 
+*kod*
+***bloğudur***
+```
+```
+yazarsak
+```
+####bu
+**bir**
+*kod*
+***bloğudur***
+``` 
+çıkar. 
