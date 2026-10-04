@@ -162,6 +162,6 @@ projenizi tamamen tekrar yazdınız yada alt yapısını değiştirdiniz.
 
 ## İLK SÜRÜM NASIL OLUŞUR
 
--**Projeye** ilk başladığınızda yada daha geliştirme aşamasındayken genellikle sürüm 0.1.0 olarak başlar.
+- **Projeye** ilk başladığınızda yada daha geliştirme aşamasındayken genellikle sürüm 0.1.0 olarak başlar.
 
 - ***PROJENİZ tamamen bittiğinde, hatasız çalıştığında, teslim edilmeye hazır olduğunda*** Projenizin ilk resmi sürümü 1.0.0 olur.
