@@ -114,7 +114,7 @@ sizi github'a yönlendirecek bir link oluşur
 
 GİTHUB'da bir projeye tıkladığınızda
 Projeyi tanıtan, nasıl kurulcağını açıklayan şey, *README.md* dosyasıdır.
-Ayrıca projenin kök dizisinr eklenen ve genellikle markdown.md ile yazılan bir tanıtım belgesidir.
+Ayrıca projenin kök dizisine eklenen ve genellikle markdown.md ile yazılan bir tanıtım belgesidir.
 
 ## ***README NE İŞE YARAR***
 
@@ -142,7 +142,7 @@ Bu numaralar projeyi kullanan kişiye projenin kaç defa değiştiğini gösteri
 
 - Projedeki kodların çalışmasını etkilemeden oluşan hataları düzelttiğinizde yada ufak tefek ekelmeler yaptığınızsa en sağdaki rakama bir adet artar
 
--#### Örneğin 
+- #### Örneğin 
 bir hatayı düzelttiğinizde 1.0.0'dan 1.0.1'e yükselir
 
 ### MINOR(yeni sürüm/özellik)
@@ -156,6 +156,12 @@ bir hatayı düzelttiğinizde 1.0.0'dan 1.0.1'e yükselir
 
 - Projede köklü bir değişim yaptığınızda, tasarımı komple değiştirdiğinizde veya eski kodların artık çalışmayacağı kadar büyük bir yenilik yaptığınızda en soldaki rakam bir adet artar ve diğer iki rakam sıfırlanır
 
-- ## ÖRNEĞİN
+- #### ÖRNEĞİN
 projenizi tamamen tekrar yazdınız yada alt yapısını değiştirdiniz.
-1.1.0 olan sürüm 2.0.0'a yükseldi
+1.1.0 olan sürüm 2.0.0'a yükseldi.
+
+## İLK SÜRÜM NASIL OLUŞUR
+
+-**Projeye** ilk başladığınızda yada daha geliştirme aşamasındayken genellikle sürüm 0.1.0 olarak başlar.
+
+- ***PROJENİZ tamamen bittiğinde, hatasız çalıştığında, teslim edilmeye hazır olduğunda*** Projenizin ilk resmi sürümü 1.0.0 olur.
